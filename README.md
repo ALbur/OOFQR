@@ -1,6 +1,8 @@
 115 获取cookies界面，windows单文件
 启动后手动选一下方式
+
 ![image](https://github.com/user-attachments/assets/ab64e3d3-d49f-4dc7-a2f1-a4f3fbc26fac)
+
 扫描成功后 copy就好
 
 
