@@ -1,3 +1,8 @@
+115 获取cookies界面，windows单文件
+启动后手动选一下方式
+
+
+
 根据[官方文档](https://alist.nn.ci/zh/guide/drivers/115.html)
 3. 使用 Python 脚本获取 Cookie 部分制作UI界面
 
